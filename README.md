@@ -55,11 +55,11 @@ Browswer -> S3(Static Frontend) -> HTTP Requests -> EC2(Flask Backend)
 
 ## Running the Backend Locally
 
-bash terminal-
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python app.py
+**bash terminal**
+- python3 -m venv venv
+- source venv/bin/activate
+- pip install -r requirements.txt
+- python app.py
 
 ## Project Status
 - This project will be extended to include:
