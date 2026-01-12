@@ -63,6 +63,6 @@ Browswer -> S3(Static Frontend) -> HTTP Requests -> EC2(Flask Backend)
 
 ## Project Status
 - This project will be extended to include:
-- HTTPS support(needs purchase of a domain)
+- HTTPS support
 
 
