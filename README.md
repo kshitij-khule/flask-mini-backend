@@ -63,8 +63,6 @@ Browswer -> S3(Static Frontend) -> HTTP Requests -> EC2(Flask Backend)
 
 ## Project Status
 - This project will be extended to include:
-- Application Load Balancer
-- Removal of hardcoded backend endpoints
-- HTTPS support
+- HTTPS support(needs purchase of a domain)
 
 
