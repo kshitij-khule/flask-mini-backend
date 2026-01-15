@@ -14,7 +14,7 @@ students = []
 # health check / home
 @app.route("/")
 def home():
-    return "Student server is running"
+    return "Student server is running on EC2"
 
 # GET → read data
 @app.route("/students", methods=["GET"])
