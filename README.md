@@ -171,7 +171,7 @@ MIT License - Feel free to use for learning!
 
 ---
 
-**Built by Kshitij Khule** | [GitHub](https://github.com/kshitij-khule) | [LinkedIn](your-linkedin)
+**Built by Kshitij Khule** | [GitHub](https://github.com/kshitij-khule) | [LinkedIn](https://www.linkedin.com/in/kshitijkhule/)
 
 ---
 
