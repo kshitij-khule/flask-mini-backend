@@ -34,7 +34,7 @@ User → S3 (Frontend) → ALB (Load Balancer) → EC2 (Flask API)
 - AWS ALB - Load balancing
 - Security Groups - Network security
 
-![Architecture](architecture/architecture-diagram.png)
+![Architecture](screenshots/architecture-diagram.png)
 
 ---
 
